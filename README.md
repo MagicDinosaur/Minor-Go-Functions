@@ -9,31 +9,22 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
  
- <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+ <p>- <i>An aspiring computer science student inquisitive about the limitless world of technology. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
 
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 ## ⚡🙋‍♂️ About Me
 
 </br>
 
-- 🔧 I’m currently working on ...Online Retail Community App.
+- 🔧 I’m currently working on ... GSU Attendance System
 
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 💡 I’m curious about ...Blockchain, DevOps, and System management.
+- 📖 I’m currently learning ...Kubernetes, Natural Language Processing.
+- ❄️ I’m looking to collaborate on ...THE LIMITLESS OF IMAGINATION.
+- 📫 How to reach me ...phamvduc2112@gmail.com.
 
 <hr>
-
-<!---
-
-kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
-
 
 </br>
 
@@ -47,10 +38,10 @@ You can click the Preview link to take a look at your changes.
 
 #### Languages
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 
 
