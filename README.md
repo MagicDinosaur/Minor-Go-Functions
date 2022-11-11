@@ -1,8 +1,5 @@
-# test
 
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MagicDinosaur&theme=vue)](https://git.io/streak-stats)
 
 
 # Hey there👋, Welcome to my Github Profile
