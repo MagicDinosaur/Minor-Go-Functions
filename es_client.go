@@ -1,10 +1,9 @@
-package book
+
 
 import (
 	"errors"
 	"fmt"
 
-	elastic "gopkg.in/olivere/elastic.v7"
 )
 
 type ESClient struct {
